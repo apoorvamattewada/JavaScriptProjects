@@ -1,0 +1,7 @@
+THIS IS NOT A FINAL VERSION, ALL I DID WAS FOLLOW A TUTORIAL. 
+I want to add personal improvements to this app:
+    Input from a text file: Typing all the quiz content into the array wont do.
+    Moving modules -  After first set of questions, I want to move to the next module of questions.
+    Display score of each module before proceeding. 
+    Providing a menu for accessing all the modules properly. 
+(I will improve this project once I get more experience with JS)
